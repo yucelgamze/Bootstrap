@@ -1,0 +1,16 @@
+.btn-success {
+    background-color: aqua;
+}
+.carousel{
+    width: 85%;
+    height: 85%;
+}
+
+.myClass{
+    margin: 90px;
+}
+
+p{
+   border: 5px solid rgb(238, 16, 160); 
+   margin: 10px;
+}
